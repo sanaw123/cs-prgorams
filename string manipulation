@@ -1,0 +1,2 @@
+pet=input("enter pets name")
+print("pet name is"+pet.upper())
